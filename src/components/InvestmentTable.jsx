@@ -8,8 +8,6 @@ export default function InvestmentTable(props) {
     results[0].interest -
     results[0].annualInvestment;
 
-  console.log(" - - - ", results);
-
   return (
     <table id="result">
       <thead>
